@@ -13,8 +13,7 @@ int main() {
         cout << i << " ";
     }
     cout << "}" << endl;
-    cout << boolalpha;
-    cout << non_neg_prefix_sum(array, length) << endl;
-    cout << non_pos_prefix_sum(array, length) << endl;
+    non_neg_prefix_sum(array, length);
+    non_pos_prefix_sum(array, length);
     
 }

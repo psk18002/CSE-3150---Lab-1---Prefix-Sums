@@ -25,6 +25,10 @@ $(TEST_EXEC): $(TEST_SRC) $(FUNC_SRC) $(HEADER) $(TEST_HEADER)
 test: $(TEST_EXEC)
 	./$(TEST_EXEC)
 
+# Run main
+main: $(EXEC)
+	./$(EXEC)
+
 # Clean up generated files
 clean:
 	rm -f $(EXEC) $(TEST_EXEC)

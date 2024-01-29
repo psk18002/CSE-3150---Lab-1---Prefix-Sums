@@ -56,7 +56,7 @@ TEST_CASE("Testing non_pos_prefix_sum function") {
     }
 
     SUBCASE("Empty Array") {
-        int empty_array[] = {};
+        int empty_array[] = {}; 
 
         CHECK(non_pos_prefix_sum(empty_array, 0) == true);
     }
