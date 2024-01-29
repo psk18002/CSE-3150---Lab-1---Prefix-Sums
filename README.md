@@ -3,7 +3,7 @@ Download the Lab 1 Folder to desired directory.
 Proceed to or open said directory in preferred IDE.
 For Makefile commands:
 
-    make 
+    make main
 Builds the main .cpp file alongside relevant source header files.
 
     make test
