@@ -1,5 +1,5 @@
-# CSE-3150---Lab-1---Prefix-Sums
-Download the Lab 1 Folder to desired directory.
+# CSE-3150---Lab-2---Fisher-Yates
+Download the Lab 2 Folder to desired directory.
 Proceed to or open said directory in preferred IDE.
 For Makefile commands:
 
