@@ -1,5 +1,5 @@
-# CSE-3150---Lab-3---Pointer-Jumper
-Download the Lab 3 Folder to desired directory.
+# CSE-3150---Labs
+Download the Lab 4 Folder to desired directory.
 Proceed to or open said directory in preferred IDE.
 For Makefile commands:
 
